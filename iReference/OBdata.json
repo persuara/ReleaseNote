@@ -1,0 +1,18 @@
+{
+  "data": [{
+    "image": "road.lanes.curved.right",
+    "title": "Helps Going through Learning curve!",
+    "description": "Reading the Release Notes published by Apple,\n helps up declutter your mind,\n upon learning about new frameworks!"
+  },
+  {
+    "image": "dot.circle.and.hand.point.up.left.fill",
+    "title": "All in one place",
+    "description": "We, Interns at Nizek,\n have built this app,\n so that you would have all\n the release notes at the palm of your hand!"
+  },
+  {
+    "image": "brain.head.profile",
+    "title": "Comprehensive Data!",
+    "description": "All the major iOS releases, including\n their respective minor and revison releases\n are included in the app!\n Simply click on the version\n to head over to the Apple website!"
+  }
+  ]
+}

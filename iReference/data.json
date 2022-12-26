@@ -1,0 +1,1438 @@
+{
+    "data": [{
+            "major": "iOS 2",
+            "image": "iOS2",
+            "minor": [{
+                    "version": "2.0",
+                    "url": null,
+                    "date": 1215766210
+                },
+                {
+                    "version": "2.1",
+                    "url": null,
+                    "date": 1220950210
+                },
+                {
+                    "version": "2.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/iPhone/RN-iPhoneSDK/index.html#//apple_ref/doc/uid/TP40007428",
+                    "date": 1227261010
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "2.0.0",
+                        "url": null,
+                        "date": 1215766210
+                    },
+                    {
+                        "version": "2.0.1",
+                        "url": null,
+                        "date": 1217839810
+                    },
+                    {
+                        "version": "2.0.2",
+                        "url": null,
+                        "date": 1219049410
+                    }
+                ],
+                [{
+                        "version": "2.1.0",
+                        "url": null,
+                        "date": 1220950210
+                    },
+                    {
+                        "version": "2.1.1",
+                        "url": null,
+                        "date": 1221209410
+                    }
+                ],
+                [{
+                        "version": "2.2.0",
+                        "url": null,
+                        "date": 1227261010
+                    },
+                    {
+                        "version": "2.2.1",
+                        "url": null,
+                        "date": 1233049810
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 3",
+            "image": "iOS3",
+            "minor": [{
+                    "version": "3.0",
+                    "url": null,
+                    "date": 1245228610
+                },
+                {
+                    "version": "3.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-3/index.html#//apple_ref/doc/uid/TP40008407",
+                    "date": 1252486210
+                },
+                {
+                    "version": "3.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-3_2/index.html#//apple_ref/doc/uid/TP40009477",
+                    "date": 1270284610
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "3.0.0",
+                        "url": null,
+                        "date": 1245228610
+                    },
+                    {
+                        "version": "3.0.1",
+                        "url": null,
+                        "date": 1249030210
+                    }
+                ],
+                [{
+                        "version": "3.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-3/index.html#//apple_ref/doc/uid/TP40008407",
+                        "date": 1252486210
+                    },
+                    {
+                        "version": "3.1.1",
+                        "url": null,
+                        "date": 1252486210
+                    },
+                    {
+                        "version": "3.1.2",
+                        "url": null,
+                        "date": 1257673810
+                    },
+                    {
+                        "version": "3.1.3",
+                        "url": null,
+                        "date": 1265104210
+                    }
+                ],
+                [{
+                        "version": "3.2.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-3_2/index.html#//apple_ref/doc/uid/TP40009477",
+                        "date": 1270284610
+                    },
+                    {
+                        "version": "3.2.1",
+                        "url": null,
+                        "date": 1279183810
+                    },
+                    {
+                        "version": "3.2.2",
+                        "url": null,
+                        "date": 1281516610
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 4",
+            "image": "iOS4",
+            "minor": [{
+                    "version": "4.0",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-4_0/index.html#//apple_ref/doc/uid/TP40009763",
+                    "date": 1277110210
+                },
+                {
+                    "version": "4.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iPhoneSDK-4_1/index.html#//apple_ref/doc/uid/TP40010153",
+                    "date": 1283935810
+                },
+                {
+                    "version": "4.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-4_2/index.html#//apple_ref/doc/uid/TP40010243",
+                    "date": 1290419410
+                },
+                {
+                    "version": "4.3",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-4_3/index.html#//apple_ref/doc/uid/TP40010565",
+                    "date": 1299664210
+                }
+            ],
+            "revisions": [
+                [null],
+                [null],
+                [{
+                        "version": "4.2.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-4_2/index.html#//apple_ref/doc/uid/TP40010243",
+                        "date": 1290419410
+                    },
+                    {
+                        "version": "4.2.1",
+                        "url": null,
+                        "date": 1290419410
+                    },
+                    {
+                        "version": "4.2.5",
+                        "url": null,
+                        "date": 1294739410
+                    },
+                    {
+                        "version": "4.2.6",
+                        "url": null,
+                        "date": 1296467410
+                    },
+                    {
+                        "version": "4.2.7",
+                        "url": null,
+                        "date": 1302771010
+                    },
+                    {
+                        "version": "4.2.8",
+                        "url": null,
+                        "date": 1304499010
+                    },
+                    {
+                        "version": "4.2.9",
+                        "url": null,
+                        "date": 1310719810
+                    },
+                    {
+                        "version": "4.2.10",
+                        "url": null,
+                        "date": 1311583810
+                    }
+                ],
+                [{
+                        "version": "4.3.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-4_3/index.html#//apple_ref/doc/uid/TP40010565",
+                        "date": 1299664210
+                    },
+                    {
+                        "version": "4.3.1",
+                        "url": null,
+                        "date": 1301043010
+                    },
+                    {
+                        "version": "4.3.2",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/Miscellaneous/RN-iOSSDK-4_3_2/index.html#//apple_ref/doc/uid/TP40010884",
+                        "date": "2011-04-14 13:20:10"
+                    },
+                    {
+                        "version": "4.3.3",
+                        "url": null,
+                        "date": 1304499010
+                    },
+                    {
+                        "version": "4.3.4",
+                        "url": null,
+                        "date": 1310719810
+                    },
+                    {
+                        "version": "4.3.5",
+                        "url": null,
+                        "date": 1311583810
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 5",
+            "image": "iOS5",
+            "minor": [{
+                    "version": "5.0",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-5_0/index.html#//apple_ref/doc/uid/TP40010949",
+                    "date": 1318413010
+                },
+                {
+                    "version": "5.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-5_1/index.html#//apple_ref/doc/uid/TP40011329",
+                    "date": 1331113810
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "5.0.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-5_0/index.html#//apple_ref/doc/uid/TP40010949",
+                        "date": 1318413010
+                    },
+                    {
+                        "version": "5.0.1",
+                        "url": null,
+                        "date": 1323683410
+                    }
+                ],
+                [{
+                        "version": "5.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-5_1/index.html#//apple_ref/doc/uid/TP40011329",
+                        "date": 1331113810
+                    },
+                    {
+                        "version": "5.1.1",
+                        "url": null,
+                        "date": 1332665410
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 6",
+            "image": "iOS6",
+            "minor": [{
+                    "version": "6.0",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-6_0/index.html#//apple_ref/doc/uid/TP40012166",
+                    "date": 1348044610
+                },
+                {
+                    "version": "6.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-6_1/index.html#//apple_ref/doc/uid/TP40012869",
+                    "date": 1359366610
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "6.0.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-6_0/index.html#//apple_ref/doc/uid/TP40012166",
+                        "date": 1348044610
+                    },
+                    {
+                        "version": "6.0.1",
+                        "url": null,
+                        "date": 1351763410
+                    },
+                    {
+                        "version": "6.0.2",
+                        "url": null,
+                        "date": 1355824210
+                    }
+                ],
+                [{
+                        "version": "6.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-6_1/index.html#//apple_ref/doc/uid/TP40012869",
+                        "date": 1359366610
+                    },
+                    {
+                        "version": "6.1.1",
+                        "url": null,
+                        "date": 1360144210
+                    },
+                    {
+                        "version": "6.1.2",
+                        "url": null,
+                        "date": 1361267410
+                    },
+                    {
+                        "version": "6.1.3",
+                        "url": null,
+                        "date": 1363686610
+                    },
+                    {
+                        "version": "6.1.4",
+                        "url": null,
+                        "date": 1367484610
+                    },
+                    {
+                        "version": "6.1.5",
+                        "url": null,
+                        "date": 1384422610
+                    },
+                    {
+                        "version": "6.1.6",
+                        "url": null,
+                        "date": 1392976210
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 7",
+            "image": "iOS7",
+            "minor": [{
+                    "version": "7.0",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-7.0/index.html#//apple_ref/doc/uid/TP40013202",
+                    "date": 1379494210
+                },
+                {
+                    "version": "7.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-7.1/index.html#//apple_ref/doc/uid/TP40013935",
+                    "date": 1379494210
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "7.0.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-7.0/index.html#//apple_ref/doc/uid/TP40013202",
+                        "date": 1379494210
+                    },
+                    {
+                        "version": "7.0.1",
+                        "url": null,
+                        "date": 1379580610
+                    },
+                    {
+                        "version": "7.0.2",
+                        "url": null,
+                        "date": 1380189010
+                    },
+                    {
+                        "version": "7.0.3",
+                        "url": null,
+                        "date": 1382435410
+                    },
+                    {
+                        "version": "7.0.4",
+                        "url": null,
+                        "date": 1384422610
+                    },
+                    {
+                        "version": "7.0.5",
+                        "url": null,
+                        "date": 1390989010
+                    },
+                    {
+                        "version": "7.0.6",
+                        "url": null,
+                        "date": 1392976210
+                    }
+                ],
+                [{
+                        "version": "7.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-7.1/index.html#//apple_ref/doc/uid/TP40013935",
+                        "date": 1394445010
+                    },
+                    {
+                        "version": "7.1.1",
+                        "url": null,
+                        "date": 1398156610
+                    },
+                    {
+                        "version": "7.1.2",
+                        "url": null,
+                        "date": 1404118210
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 8",
+            "image": "iOS8",
+            "minor": [{
+                    "version": "8.0",
+                    "url": null,
+                    "date": 1410943810
+                },
+                {
+                    "version": "8.1",
+                    "url": null,
+                    "date": 1413798610
+                },
+                {
+                    "version": "8.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-8.2/index.html#//apple_ref/doc/uid/TP40015020",
+                    "date": 1425894610
+                },
+                {
+                    "version": "8.3",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-8.3/index.html#//apple_ref/doc/uid/TP40015151",
+                    "date": 1428483010
+                },
+                {
+                    "version": "8.4",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-8.4/index.html#//apple_ref/doc/uid/TP40015246",
+                    "date": 1435654210
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "8.0.0",
+                        "url": null,
+                        "date": 1410943810
+                    },
+                    {
+                        "version": "8.0.1",
+                        "url": null,
+                        "date": 1411552210
+                    },
+                    {
+                        "version": "8.0.2",
+                        "url": null,
+                        "date": 1411638610
+                    }
+                ],
+                [{
+                        "version": "8.1.0",
+                        "url": null,
+                        "date": 1413798610
+                    },
+                    {
+                        "version": "8.1.1",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-8.1/index.html#//apple_ref/doc/uid/TP40014993",
+                        "date": 1416217810
+                    },
+                    {
+                        "version": "8.1.2",
+                        "url": null,
+                        "date": 1418118610
+                    },
+                    {
+                        "version": "8.1.3",
+                        "url": null,
+                        "date": 1422352210
+                    }
+                ],
+                [null],
+                [null],
+                [{
+                        "version": "8.4.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-8.4/index.html#//apple_ref/doc/uid/TP40015246",
+                        "date": 1435654210
+                    },
+                    {
+                        "version": "8.4.1",
+                        "url": null,
+                        "date": 1439455810
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 9",
+            "image": "iOS9",
+            "minor": [{
+                    "version": "9.0",
+                    "url": null,
+                    "date": 1442393410
+                },
+                {
+                    "version": "9.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-9.1/index.html#//apple_ref/doc/uid/TP40016570",
+                    "date": 1445421010
+                },
+                {
+                    "version": "9.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-9.2/index.html#//apple_ref/doc/uid/TP40016638",
+                    "date": 1449568210
+                },
+                {
+                    "version": "9.3",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-9.3/index.html#//apple_ref/doc/uid/TP40016779",
+                    "date": 1459155010
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "9.0.0",
+                        "url": null,
+                        "date": 1442393410
+                    },
+                    {
+                        "version": "9.0.1",
+                        "url": null,
+                        "date": 1443001810
+                    },
+                    {
+                        "version": "9.0.2",
+                        "url": null,
+                        "date": 1443606610
+                    }
+                ],
+                [null],
+                [{
+                        "version": "9.2.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-9.2/index.html#//apple_ref/doc/uid/TP40016638",
+                        "date": 1449568210
+                    },
+                    {
+                        "version": "9.2.1",
+                        "url": null,
+                        "date": 1453197010
+                    }
+                ],
+                [{
+                        "version": "9.3.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-9.3/index.html#//apple_ref/doc/uid/TP40016779",
+                        "date": 1459155010
+                    },
+                    {
+                        "version": "9.3.1",
+                        "url": null,
+                        "date": 1459414210
+                    },
+                    {
+                        "version": "9.3.2",
+                        "url": null,
+                        "date": 1464857410
+                    },
+                    {
+                        "version": "9.3.3",
+                        "url": null,
+                        "date": 1468831810
+                    },
+                    {
+                        "version": "9.3.4",
+                        "url": null,
+                        "date": 1470300610
+                    },
+                    {
+                        "version": "9.3.5",
+                        "url": null,
+                        "date": 1472115010
+                    },
+                    {
+                        "version": "9.3.6",
+                        "url": null,
+                        "date": 1563785410
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 10",
+            "image": "iOS10",
+            "minor": [{
+                    "version": "10.0",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.0/index.html#//apple_ref/doc/uid/TP40017540",
+                    "date": 1473756610
+                },
+                {
+                    "version": "10.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.1/index.html#//apple_ref/doc/uid/TP40017562",
+                    "date": 1477302610
+                },
+                {
+                    "version": "10.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.2/index.html#//apple_ref/doc/uid/TP40017585",
+                    "date": 1481536210
+                },
+                {
+                    "version": "10.3",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.3/index.html#//apple_ref/doc/uid/TP40017612",
+                    "date": 1490604610
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "10.0.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.0/index.html#//apple_ref/doc/uid/TP40017540",
+                        "date": 1473756610
+                    },
+                    {
+                        "version": "10.0.1",
+                        "url": null,
+                        "date": 1473756610
+                    },
+                    {
+                        "version": "10.0.2",
+                        "url": null,
+                        "date": 1474624210
+                    },
+                    {
+                        "version": "10.0.3",
+                        "url": null,
+                        "date": 1476697810
+                    }
+                ],
+                [{
+                        "version": "10.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.1/index.html#//apple_ref/doc/uid/TP40017562",
+                        "date": 1477302610
+                    },
+                    {
+                        "version": "10.1.1",
+                        "url": null,
+                        "date": 1478685010
+                    }
+                ],
+                [{
+                        "version": "10.2.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.2/index.html#//apple_ref/doc/uid/TP40017585",
+                        "date": 1481536210
+                    },
+                    {
+                        "version": "10.2.1",
+                        "url": null,
+                        "date": 1485165010
+                    }
+                ],
+                [{
+                        "version": "10.3.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOSSDK-10.3/index.html#//apple_ref/doc/uid/TP40017612",
+                        "date": 1490604610
+                    },
+                    {
+                        "version": "10.3.1",
+                        "url": null,
+                        "date": 1491209410
+                    },
+                    {
+                        "version": "10.3.2",
+                        "url": null,
+                        "date": 1494838210
+                    },
+                    {
+                        "version": "10.3.3",
+                        "url": null,
+                        "date": 1500454210
+                    },
+                    {
+                        "version": "10.3.4",
+                        "url": null,
+                        "date": 1500713410
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 11",
+            "image": "iOS11",
+            "minor": [{
+                    "version": "11.0",
+                    "url": null,
+                    "date": 1505811010
+                },
+                {
+                    "version": "11.1",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.1/index.html#//apple_ref/doc/uid/TP40017683",
+                    "date": 1509443410
+                },
+                {
+                    "version": "11.2",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.2/index.html#//apple_ref/doc/uid/TP40017694",
+                    "date": 1512208210
+                },
+                {
+                    "version": "11.3",
+                    "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.3/index.html#//apple_ref/doc/uid/TP40017699",
+                    "date": 1522313410
+                },
+                {
+                    "version": "11.4",
+                    "url": null,
+                    "date": 1527583810
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "11.0.0",
+                        "url": null,
+                        "date": 1505811010
+                    },
+                    {
+                        "version": "11.0.1",
+                        "url": null,
+                        "date": 1506419410
+                    },
+                    {
+                        "version": "11.0.2",
+                        "url": null,
+                        "date": 1507024210
+                    },
+                    {
+                        "version": "11.0.3",
+                        "url": null,
+                        "date": 1507715410
+                    }
+                ],
+                [{
+                        "version": "11.1.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.1/index.html#//apple_ref/doc/uid/TP40017683",
+                        "date": 1509443410
+                    },
+                    {
+                        "version": "11.1.1",
+                        "url": null,
+                        "date": 1510221010
+                    },
+                    {
+                        "version": "11.1.2",
+                        "url": null,
+                        "date": 1510825810
+                    }
+                ],
+                [{
+                        "version": "11.2.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.2/index.html#//apple_ref/doc/uid/TP40017694",
+                        "date": 1512208210
+                    },
+                    {
+                        "version": "11.2.1",
+                        "url": null,
+                        "date": 1513158610
+                    },
+                    {
+                        "version": "11.2.2",
+                        "url": null,
+                        "date": 1515405010
+                    },
+                    {
+                        "version": "11.2.5",
+                        "url": null,
+                        "date": 1516701010
+                    },
+                    {
+                        "version": "11.2.6",
+                        "url": null,
+                        "date": 1519033810
+                    }
+                ],
+                [{
+                        "version": "11.3.0",
+                        "url": "https://developer.apple.com/library/archive/releasenotes/General/RN-iOS-11.3/index.html#//apple_ref/doc/uid/TP40017699",
+                        "date": 1522313410
+                    },
+                    {
+                        "version": "11.3.1",
+                        "url": null,
+                        "date": 1524559810
+                    }
+                ],
+                [{
+                        "version": "11.4.0",
+                        "url": null,
+                        "date": 1527583810
+
+                    },
+                    {
+                        "version": "11.4.1",
+                        "url": null,
+                        "date": 1531126210
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 12",
+            "image": "iOS12",
+            "minor": [{
+                    "version": "12.0",
+                    "url": null,
+                    "date": 1537174210
+                },
+                {
+                    "version": "12.1",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_1-release-notes/",
+                    "date": 1541584210
+                },
+                {
+                    "version": "12.2",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_2-release-notes/",
+                    "date": 1553503810
+                },
+                {
+                    "version": "12.3",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_3-release-notes/",
+                    "date": 1557737410
+                },
+                {
+                    "version": "12.4",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_4-release-notes/",
+                    "date": 1563785410
+                },
+                {
+                    "version": "12.5",
+                    "url": null,
+                    "date": 1607939410
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "12.0.0",
+                        "url": null,
+                        "date": 1537174210
+                    },
+                    {
+                        "version": "12.0.1",
+                        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-12_0_1-release-notes/",
+                        "date": 1538992210
+                    }
+                ],
+                [{
+                        "version": "12.1.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_1-release-notes/",
+                        "date": 1541584210
+                    },
+                    {
+                        "version": "12.1.1",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_1_1-release-notes/",
+                        "date": 1544003410
+                    },
+                    {
+                        "version": "12.1.2",
+                        "url": null,
+                        "date": 1545299410
+                    },
+                    {
+                        "version": "12.1.3",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_1_3-release-notes/",
+                        "date": 1548150610
+                    },
+                    {
+                        "version": "12.1.4",
+                        "url": null,
+                        "date": 1549533010
+                    }
+                ],
+                [null],
+                [{
+                        "version": "12.3.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_3-release-notes/",
+                        "date": 1557737410
+                    },
+                    {
+                        "version": "12.3.1",
+                        "url": null,
+                        "date": 1559033410
+                    },
+                    {
+                        "version": "12.3.2",
+                        "url": null,
+                        "date": 1560156610
+                    }
+                ],
+                [{
+                        "version": "12.4.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-12_4-release-notes/",
+                        "date": 1563785410
+                    },
+                    {
+                        "version": "12.4.1",
+                        "url": null,
+                        "date": 1566809410
+                    },
+                    {
+                        "version": "12.4.2",
+                        "url": null,
+                        "date": 1569491410
+                    },
+                    {
+                        "version": "12.4.3",
+                        "url": null,
+                        "date": 1572256210
+                    },
+                    {
+                        "version": "12.4.4",
+                        "url": null,
+                        "date": 1575971410
+                    },
+                    {
+                        "version": "12.4.5",
+                        "url": null,
+                        "date": 1580205010
+                    },
+                    {
+                        "version": "12.4.6",
+                        "url": null,
+                        "date": 1585039810
+                    },
+                    {
+                        "version": "12.4.7",
+                        "url": null,
+                        "date": 1589964610
+                    },
+                    {
+                        "version": "12.4.8",
+                        "url": null,
+                        "date": 1594803010
+                    },
+                    {
+                        "version": "12.4.9",
+                        "url": null,
+                        "date": 1604569810
+                    }
+                ],
+                [{
+                        "version": "12.5.0",
+                        "url": null,
+                        "date": 1607939410
+                    },
+                    {
+                        "version": "12.5.1",
+                        "url": null,
+                        "date": 1610358610
+                    },
+                    {
+                        "version": "12.5.2",
+                        "url": null,
+                        "date": 1616748610
+                    },
+                    {
+                        "version": "12.5.3",
+                        "url": null,
+                        "date": 1620031810
+                    },
+                    {
+                        "version": "12.5.4",
+                        "url": null,
+                        "date": 1623660610
+                    },
+                    {
+                        "version": "12.5.5",
+                        "url": null,
+                        "date": 1632390610
+                    },
+                    {
+                        "version": "12.5.6",
+                        "url": null,
+                        "date": 1661935810
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 13",
+            "image": "iOS13",
+            "minor": [{
+                    "version": "13.0",
+                    "url": null,
+                    "date": 1568883010
+                },
+                {
+                    "version": "13.1",
+                    "url": null,
+                    "date": 1569318610
+                },
+                {
+                    "version": "13.2",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_2-release-notes/",
+                    "date": 1572256210
+                },
+                {
+                    "version": "13.3",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_3-release-notes/",
+                    "date": 1575971410
+                },
+                {
+                    "version": "13.4",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_4-release-notes/",
+                    "date": 1587718210
+                },
+                {
+                    "version": "13.5",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_5-release-notes/",
+                    "date": 1589964610
+                },
+                {
+                    "version": "13.6",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_6-release-notes/",
+                    "date": 1594803010
+                },
+                {
+                    "version": "13.7",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_7-release-notes/",
+                    "date": 1598950210
+                }
+            ],
+            "revisions": [
+                [null],
+                [{
+                        "version": "13.1.0",
+                        "url": null,
+                        "date": 1569318610
+                    },
+                    {
+                        "version": "13.1.1",
+                        "url": null,
+                        "date": 1569577810
+                    },
+                    {
+                        "version": "13.1.2",
+                        "url": null,
+                        "date": 1569837010
+                    },
+                    {
+                        "version": "13.1.3",
+                        "url": null,
+                        "date": 1571133010
+                    }
+                ],
+                [{
+                        "version": "13.2.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_2-release-notes/",
+                        "date": 1572256210
+                    },
+                    {
+                        "version": "13.2.1",
+                        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-13_2_1-release-notes/",
+                        "date": 1572429010
+                    },
+                    {
+                        "version": "13.2.2",
+                        "url": null,
+                        "date": 1573120210
+                    },
+                    {
+                        "version": "13.2.3",
+                        "url": null,
+                        "date": 1574070610
+                    }
+                ],
+                [{
+                        "version": "13.3.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_3-release-notes/",
+                        "date": 1570873810
+                    },
+                    {
+                        "version": "13.3.1",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_3_1-release-notes/",
+                        "date": 1580205010
+                    }
+                ],
+                [{
+                        "version": "13.4.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_4-release-notes/",
+                        "date": 1585039810
+                    },
+                    {
+                        "version": "13.4.1",
+                        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-13_4_1-release-notes/",
+                        "date": 1587631810
+                    }
+                ],
+                [{
+                        "version": "13.5.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_5-release-notes/",
+                        "date": 1589964610
+                    },
+                    {
+                        "version": "13.5.1",
+                        "url": null,
+                        "date": 1591001410
+                    }
+                ],
+                [{
+                        "version": "13.6.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_6-release-notes/",
+                        "date": 1594803010
+                    },
+                    {
+                        "version": "13.6.1",
+                        "url": null,
+                        "date": 1597222210
+                    }
+                ],
+                [null]
+            ]
+        },
+        {
+            "major": "iOS 14",
+            "image": "iOS14",
+            "minor": [{
+                    "version": "14.0",
+                    "url": null,
+                    "date": 1600246210
+                },
+                {
+                    "version": "14.1",
+                    "url": null,
+                    "date": 1603187410
+                },
+                {
+                    "version": "14.2",
+                    "url": null,
+                    "date": 1604569810
+                },
+                {
+                    "version": "14.3",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_3-release-notes/",
+                    "date": 1607939410
+                },
+                {
+                    "version": "14.4",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes/",
+                    "date": 1611654610
+                },
+                {
+                    "version": "14.5",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_5-release-notes/",
+                    "date": 1619427010
+                },
+                {
+                    "version": "14.6",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_6-release-notes/",
+                    "date": 1621846210
+                },
+                {
+                    "version": "14.7",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_7-release-notes/",
+                    "date": 1626684610
+                },
+                {
+                    "version": "14.8",
+                    "url": null,
+                    "date": 1631523010
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "14.0.0",
+                        "url": null,
+                        "date": 1600246210
+                    },
+                    {
+                        "version": "14.0.1",
+                        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-14_0_1-release-notes/",
+                        "date": 1600941010
+                    }
+                ],
+                [null],
+                [{
+                        "version": "14.2.0",
+                        "url": null,
+                        "date": 1604569810
+                    },
+                    {
+                        "version": "14.2.1",
+                        "url": null,
+                        "date": 1605779410
+                    }
+                ],
+                [null],
+                [{
+                        "version": "14.4.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes/",
+                        "date": 1611654610
+                    },
+                    {
+                        "version": "14.4.1",
+                        "url": null,
+                        "date": 1615197010
+                    },
+                    {
+                        "version": "14.4.2",
+                        "url": null,
+                        "date": 1616748610
+                    }
+                ],
+                [{
+                        "version": "14.5.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_5-release-notes/",
+                        "date": 1619427010
+                    },
+                    {
+                        "version": "14.5.1",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_5_1-release-notes/",
+                        "date": 1620031810
+                    }
+                ],
+                [null],
+                [{
+                        "version": "14.7.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_7-release-notes/",
+                        "date": 1626684610
+                    },
+                    {
+                        "version": "14.7.1",
+                        "url": null,
+                        "date": 1627289410
+                    }
+                ],
+                [{
+                        "version": "14.8.0",
+                        "url": null,
+                        "date": 1631523010
+                    },
+                    {
+                        "version": "14.8.1",
+                        "url": null,
+                        "date": 1635241810
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 15",
+            "image": "iOS15",
+            "minor": [{
+                    "version": "15.0",
+                    "url": null,
+                    "date": 1632127810
+                },
+                {
+                    "version": "15.1",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes/",
+                    "date": 1635155410
+                },
+                {
+                    "version": "15.2",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes/",
+                    "date": 1639389010
+                },
+                {
+                    "version": "15.3",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_3-release-notes/",
+                    "date": 1643190610
+                },
+                {
+                    "version": "15.4",
+                    "url": null,
+                    "date": 1647251410
+                },
+                {
+                    "version": "15.5",
+                    "url": null,
+                    "date": 1652691010
+                },
+                {
+                    "version": "15.6",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_6-release-notes/",
+                    "date": 1658307010
+                },
+                {
+                    "version": "15.7",
+                    "url": null,
+                    "date": 1662972610
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "15.0.0",
+                        "url": null,
+                        "date": 1632127810
+                    },
+                    {
+                        "version": "15.0.1",
+                        "url": null,
+                        "date": 1633081810
+                    },
+                    {
+                        "version": "15.0.2",
+                        "url": null,
+                        "date": 1633945810
+                    }
+                ],
+                [{
+                        "version": "15.1.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes/",
+                        "date": 1635155410
+                    },
+                    {
+                        "version": "15.1.1",
+                        "url": null,
+                        "date": 1637142610
+                    }
+                ],
+                [{
+                        "version": "15.2.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes/",
+                        "date": 1639389010
+                    },
+                    {
+                        "version": "15.2.1",
+                        "url": null,
+                        "date": 1641981010
+                    }
+                ],
+                [{
+                        "version": "15.3.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_3-release-notes/",
+                        "date": 1643190610
+                    },
+                    {
+                        "version": "15.3.1",
+                        "url": null,
+                        "date": 1644486610
+                    }
+                ],
+                [{
+                        "version": "15.4.0",
+                        "url": null,
+                        "date": 1647251410
+                    },
+                    {
+                        "version": "15.4.1",
+                        "url": null,
+                        "date": 1648716610
+                    }
+                ],
+                [null],
+                [{
+                        "version": "15.6.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_6-release-notes/",
+                        "date": 1658307010
+                    },
+                    {
+                        "version": "15.6.1",
+                        "url": null,
+                        "date": 1660726210
+                    }
+                ],
+                [{
+                        "version": "15.7.0",
+                        "url": null,
+                        "date": 1662972610
+                    },
+                    {
+                        "version": "15.7.1",
+                        "url": null,
+                        "date": 1666864210
+                    },
+                    {
+                        "version": "15.7.2",
+                        "url": null,
+                        "date": 1670925010
+                    }
+                ]
+            ]
+        },
+        {
+            "major": "iOS 16",
+            "image": "iOS16",
+            "minor": [{
+                    "version": "16.0",
+                    "url": null,
+                    "date": 1662972610
+                },
+                {
+                    "version": "16.1",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-16_1-release-notes/",
+                    "date": 1666605010
+                },
+                {
+                    "version": "16.2",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_2-release-notes/",
+                    "date": 1670925010
+                },
+                {
+                    "version": "16.3",
+                    "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes/",
+                    "date": 1671011410
+                }
+            ],
+            "revisions": [
+                [{
+                        "version": "16.0.0",
+                        "url": null,
+                        "date": 1662972610
+                    },
+                    {
+                        "version": "16.0.1",
+                        "url": null,
+                        "date": 1663145410
+                    },
+                    {
+                        "version": "16.0.2",
+                        "url": null,
+                        "date": 1663840210
+                    },
+                    {
+                        "version": "16.0.3",
+                        "url": null,
+                        "date": 1665395410
+                    }
+                ],
+                [{
+                        "version": "16.1.0",
+                        "url": "https://developer.apple.com/documentation/ios-ipados-release-notes/ios-16_1-release-notes/",
+                        "date": 1666605010
+                    },
+                    {
+                        "version": "16.1.1",
+                        "url": null,
+                        "date": 1667987410
+                    },
+                    {
+                        "version": "16.1.2",
+                        "url": null,
+                        "date": 1669801810
+                    }
+                ],
+                [null],
+                [null]
+            ]
+        }
+    ]
+}
